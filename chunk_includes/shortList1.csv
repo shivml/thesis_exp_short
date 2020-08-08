@@ -1,0 +1,7 @@
+item,expSet,grammaticallyCorrect,condition,socStat,context,word1,word2,word3,word4,word5,list,stimuli
+1,WP2,yes,g,high,Der Polizeikommi&szlig;ar vermerkte in der Akte:,Der,Trinker,diffamierte,den,R&uuml;pel.,1,Critical
+2,WP2,no,j,low,Der Knasti feixte auf dem Pausenhof:,Der,Skinhead,z&uuml;chtigen,den,Str&auml;fling.,1,Critical
+3,WP2,yes,i,low,Der Kla&szlig;enclown st&auml;nkerte in der SMS:,Der,Sportlehrer,knechtete,den,Wettl&auml;ufer.,1,Critical
+27,WP1,no,e,high,Meisterlich begabt stimuliert Susanna:,Ich,schneidere,jetzt,meine,Geige.,1,Filler
+27,WP1,yes,d,low,Enorm geschickt schnattert Susanna:,Ich,schneidere,jetzt,meine,Fummel.,1,Filler
+29,WP1,yes,c,high,Exzessiv arrogant intoniert Annika:,Ich,rauche,bald,meine,Zigarre.,1,Filler

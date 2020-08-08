@@ -1,0 +1,362 @@
+#
+# Results on Wednesday July 22 2020 14:58:21 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,0,0,Welcome,NULL,PennController,0,_Trial_,Start,1595429685733,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,0,0,Welcome,NULL,PennController,0,_Trial_,End,1595429691891,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,1,0,ParticipantInfo,NULL,PennController,1,_Trial_,Start,1595429691894,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,1,0,ParticipantInfo,NULL,Canvas,agecanvas,Print,NA,1595429691911,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,1,0,ParticipantInfo,NULL,DropDown,age,Selected,23,1595429696565,6
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,1,0,ParticipantInfo,NULL,DropDown,NativeLang,Selected,Ja,1595429697989,0
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,1,0,ParticipantInfo,NULL,DropDown,sex,Selected,&nbsp;m&auml;nnlich&nbsp;,1595429699404,1
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,1,0,ParticipantInfo,NULL,DropDown,language,Selected,nein,1595429702700,0
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,1,0,ParticipantInfo,NULL,TextInput,und zwar,Final,,1595429704287,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,1,0,ParticipantInfo,NULL,PennController,1,_Trial_,End,1595429704288,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,2,0,Instructions,NULL,PennController,2,_Trial_,Start,1595429704290,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,2,0,Instructions,NULL,PennController,2,_Trial_,End,1595429707074,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,5,0,Examples,NULL,PennController,7,_Trial_,Start,1595429707077,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,5,0,Examples,NULL,Key,start,PressedKey, ,1595429708959,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,5,0,Examples,NULL,Key,context_key,PressedKey, ,1595429710425,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,5,0,Examples,NULL,Key,word1_key,PressedKey, ,1595429712333,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,5,0,Examples,NULL,Key,word2_key,PressedKey, ,1595429712710,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,5,0,Examples,NULL,Key,word3_key,PressedKey, ,1595429713046,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,5,0,Examples,NULL,Key,word4_key,PressedKey, ,1595429713336,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,5,0,Examples,NULL,Key,word5_key,PressedKey, ,1595429713663,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,5,0,Examples,NULL,Scale,scale,Choice,3,1595429715545,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,5,0,Examples,NULL,PennController,7,_Trial_,End,1595429716789,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,3,0,Examples,NULL,PennController,5,_Trial_,Start,1595429716791,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,3,0,Examples,NULL,Key,start,PressedKey, ,1595429717885,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,3,0,Examples,NULL,Key,context_key,PressedKey, ,1595429718357,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,3,0,Examples,NULL,Key,word1_key,PressedKey, ,1595429720491,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,3,0,Examples,NULL,Key,word2_key,PressedKey, ,1595429720776,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,3,0,Examples,NULL,Key,word3_key,PressedKey, ,1595429721068,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,3,0,Examples,NULL,Key,word4_key,PressedKey, ,1595429721327,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,3,0,Examples,NULL,Key,word5_key,PressedKey, ,1595429721646,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,3,0,Examples,NULL,Scale,scale,Choice,4,1595429722640,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,3,0,Examples,NULL,PennController,5,_Trial_,End,1595429723454,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,7,0,Examples,NULL,PennController,9,_Trial_,Start,1595429723457,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,7,0,Examples,NULL,Key,start,PressedKey, ,1595429724319,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,7,0,Examples,NULL,Key,context_key,PressedKey, ,1595429724675,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,7,0,Examples,NULL,Key,word1_key,PressedKey, ,1595429726537,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,7,0,Examples,NULL,Key,word2_key,PressedKey, ,1595429726812,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,7,0,Examples,NULL,Key,word3_key,PressedKey, ,1595429726999,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,7,0,Examples,NULL,Key,word4_key,PressedKey, ,1595429727154,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,7,0,Examples,NULL,Key,word5_key,PressedKey, ,1595429727333,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,7,0,Examples,NULL,Scale,scale,Choice,4,1595429728280,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,7,0,Examples,NULL,PennController,9,_Trial_,End,1595429729250,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,6,0,Examples,NULL,PennController,8,_Trial_,Start,1595429729252,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,6,0,Examples,NULL,Key,start,PressedKey, ,1595429821676,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,6,0,Examples,NULL,Key,context_key,PressedKey, ,1595429822135,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,6,0,Examples,NULL,Key,word1_key,PressedKey, ,1595429823514,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,6,0,Examples,NULL,Key,word2_key,PressedKey, ,1595429823730,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,6,0,Examples,NULL,Key,word3_key,PressedKey, ,1595429823909,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,6,0,Examples,NULL,Key,word4_key,PressedKey, ,1595429824094,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,6,0,Examples,NULL,Key,word5_key,PressedKey, ,1595429824296,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,6,0,Examples,NULL,Scale,scale,Choice,3,1595429825310,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,6,0,Examples,NULL,PennController,8,_Trial_,End,1595429826147,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,4,0,Examples,NULL,PennController,6,_Trial_,Start,1595429826150,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,4,0,Examples,NULL,Key,start,PressedKey, ,1595429826995,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,4,0,Examples,NULL,Key,context_key,PressedKey, ,1595429827440,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,4,0,Examples,NULL,Key,word1_key,PressedKey, ,1595429828575,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,4,0,Examples,NULL,Key,word2_key,PressedKey, ,1595429828809,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,4,0,Examples,NULL,Key,word3_key,PressedKey, ,1595429829008,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,4,0,Examples,NULL,Key,word4_key,PressedKey, ,1595429829190,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,4,0,Examples,NULL,Key,word5_key,PressedKey, ,1595429829419,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,4,0,Examples,NULL,Scale,scale,Choice,4,1595429830318,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,4,0,Examples,NULL,PennController,6,_Trial_,End,1595429831181,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,8,0,beforeTrials,NULL,PennController,3,_Trial_,Start,1595429831183,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,8,0,beforeTrials,NULL,PennController,3,_Trial_,End,1595429832673,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Item.
+# 14. Soc_stat.
+# 15. condition.
+# 16. stimuli.
+# 17. Comments.
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,11,0,trials,NULL,PennController,12,_Trial_,Start,1595429832675,3,low,i,Critical,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,11,0,trials,NULL,Key,start,PressedKey, ,1595429833825,3,low,i,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,11,0,trials,NULL,Key,context_key,PressedKey, ,1595429834981,3,low,i,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,11,0,trials,NULL,Key,word1_key,PressedKey, ,1595429836636,3,low,i,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,11,0,trials,NULL,Key,word2_key,PressedKey, ,1595429836851,3,low,i,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,11,0,trials,NULL,Key,word3_key,PressedKey, ,1595429837133,3,low,i,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,11,0,trials,NULL,Key,word4_key,PressedKey, ,1595429837411,3,low,i,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,11,0,trials,NULL,Key,word5_key,PressedKey, ,1595429837711,3,low,i,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,11,0,trials,NULL,Scale,scale,Choice,4,1595429838824,3,low,i,Critical,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,11,0,trials,NULL,PennController,12,_Trial_,End,1595429839401,3,low,i,Critical,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,17,0,trials,NULL,PennController,18,_Trial_,Start,1595429839404,7,high,e,Filler,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,17,0,trials,NULL,Key,start,PressedKey, ,1595429840423,7,high,e,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,17,0,trials,NULL,Key,context_key,PressedKey, ,1595429842854,7,high,e,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,17,0,trials,NULL,Key,word1_key,PressedKey, ,1595429845370,7,high,e,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,17,0,trials,NULL,Key,word2_key,PressedKey, ,1595429845565,7,high,e,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,17,0,trials,NULL,Key,word3_key,PressedKey, ,1595429845766,7,high,e,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,17,0,trials,NULL,Key,word4_key,PressedKey, ,1595429846365,7,high,e,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,17,0,trials,NULL,Key,word5_key,PressedKey, ,1595429846769,7,high,e,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,17,0,trials,NULL,Scale,scale,Choice,3,1595429847876,7,high,e,Filler,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,17,0,trials,NULL,PennController,18,_Trial_,End,1595429848836,7,high,e,Filler,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,13,0,trials,NULL,PennController,14,_Trial_,Start,1595429848838,5,low,g,Critical,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,13,0,trials,NULL,Key,start,PressedKey, ,1595429853339,5,low,g,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,13,0,trials,NULL,Key,context_key,PressedKey, ,1595429853780,5,low,g,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,13,0,trials,NULL,Key,word1_key,PressedKey, ,1595429855045,5,low,g,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,13,0,trials,NULL,Key,word2_key,PressedKey, ,1595429855329,5,low,g,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,13,0,trials,NULL,Key,word3_key,PressedKey, ,1595429855588,5,low,g,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,13,0,trials,NULL,Key,word4_key,PressedKey, ,1595429855883,5,low,g,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,13,0,trials,NULL,Key,word5_key,PressedKey, ,1595429856162,5,low,g,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,13,0,trials,NULL,Scale,scale,Choice,4,1595429857270,5,low,g,Critical,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,13,0,trials,NULL,PennController,14,_Trial_,End,1595429858294,5,low,g,Critical,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,9,0,trials,NULL,PennController,10,_Trial_,Start,1595429858297,1,high,g,Critical,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,9,0,trials,NULL,Key,start,PressedKey, ,1595429859353,1,high,g,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,9,0,trials,NULL,Key,context_key,PressedKey, ,1595429859897,1,high,g,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,9,0,trials,NULL,Key,word1_key,PressedKey, ,1595429861580,1,high,g,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,9,0,trials,NULL,Key,word2_key,PressedKey, ,1595429861881,1,high,g,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,9,0,trials,NULL,Key,word3_key,PressedKey, ,1595429862122,1,high,g,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,9,0,trials,NULL,Key,word4_key,PressedKey, ,1595429862381,1,high,g,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,9,0,trials,NULL,Key,word5_key,PressedKey, ,1595429862644,1,high,g,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,9,0,trials,NULL,Scale,scale,Choice,3,1595429863648,1,high,g,Critical,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,9,0,trials,NULL,PennController,10,_Trial_,End,1595429864308,1,high,g,Critical,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,15,0,trials,NULL,PennController,16,_Trial_,Start,1595429864311,3,high,e,Filler,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,15,0,trials,NULL,Key,start,PressedKey, ,1595429865694,3,high,e,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,15,0,trials,NULL,Key,context_key,PressedKey, ,1595429866478,3,high,e,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,15,0,trials,NULL,Key,word1_key,PressedKey, ,1595429867876,3,high,e,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,15,0,trials,NULL,Key,word2_key,PressedKey, ,1595429868095,3,high,e,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,15,0,trials,NULL,Key,word3_key,PressedKey, ,1595429868415,3,high,e,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,15,0,trials,NULL,Key,word4_key,PressedKey, ,1595429868729,3,high,e,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,15,0,trials,NULL,Key,word5_key,PressedKey, ,1595429869021,3,high,e,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,15,0,trials,NULL,Scale,scale,Choice,3,1595429870076,3,high,e,Filler,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,15,0,trials,NULL,PennController,16,_Trial_,End,1595429870866,3,high,e,Filler,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,18,0,trials,NULL,PennController,19,_Trial_,Start,1595429870868,9,low,f,Filler,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,18,0,trials,NULL,Key,start,PressedKey, ,1595429871746,9,low,f,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,18,0,trials,NULL,Key,context_key,PressedKey, ,1595429872192,9,low,f,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,18,0,trials,NULL,Key,word1_key,PressedKey, ,1595429873308,9,low,f,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,18,0,trials,NULL,Key,word2_key,PressedKey, ,1595429873563,9,low,f,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,18,0,trials,NULL,Key,word3_key,PressedKey, ,1595429873824,9,low,f,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,18,0,trials,NULL,Key,word4_key,PressedKey, ,1595429874112,9,low,f,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,18,0,trials,NULL,Key,word5_key,PressedKey, ,1595429874420,9,low,f,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,18,0,trials,NULL,Scale,scale,Choice,3,1595429875402,9,low,f,Filler,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,18,0,trials,NULL,PennController,19,_Trial_,End,1595429876186,9,low,f,Filler,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,10,0,trials,NULL,PennController,11,_Trial_,Start,1595429876189,2,low,j,Critical,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,10,0,trials,NULL,Key,start,PressedKey, ,1595429877177,2,low,j,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,10,0,trials,NULL,Key,context_key,PressedKey, ,1595429877845,2,low,j,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,10,0,trials,NULL,Key,word1_key,PressedKey, ,1595429879361,2,low,j,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,10,0,trials,NULL,Key,word2_key,PressedKey, ,1595429879613,2,low,j,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,10,0,trials,NULL,Key,word3_key,PressedKey, ,1595429879910,2,low,j,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,10,0,trials,NULL,Key,word4_key,PressedKey, ,1595429880194,2,low,j,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,10,0,trials,NULL,Key,word5_key,PressedKey, ,1595429880511,2,low,j,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,10,0,trials,NULL,Scale,scale,Choice,3,1595429881480,2,low,j,Critical,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,10,0,trials,NULL,PennController,11,_Trial_,End,1595429882187,2,low,j,Critical,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,14,0,trials,NULL,PennController,15,_Trial_,Start,1595429882189,1,high,c,Filler,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,14,0,trials,NULL,Key,start,PressedKey, ,1595429883004,1,high,c,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,14,0,trials,NULL,Key,context_key,PressedKey, ,1595429883787,1,high,c,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,14,0,trials,NULL,Key,word1_key,PressedKey, ,1595429884727,1,high,c,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,14,0,trials,NULL,Key,word2_key,PressedKey, ,1595429885008,1,high,c,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,14,0,trials,NULL,Key,word3_key,PressedKey, ,1595429885243,1,high,c,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,14,0,trials,NULL,Key,word4_key,PressedKey, ,1595429885511,1,high,c,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,14,0,trials,NULL,Key,word5_key,PressedKey, ,1595429885780,1,high,c,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,14,0,trials,NULL,Scale,scale,Choice,4,1595429886830,1,high,c,Filler,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,14,0,trials,NULL,PennController,15,_Trial_,End,1595429887706,1,high,c,Filler,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,12,0,trials,NULL,PennController,13,_Trial_,Start,1595429887707,4,low,h,Critical,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,12,0,trials,NULL,Key,start,PressedKey, ,1595429888666,4,low,h,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,12,0,trials,NULL,Key,context_key,PressedKey, ,1595429889405,4,low,h,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,12,0,trials,NULL,Key,word1_key,PressedKey, ,1595429890670,4,low,h,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,12,0,trials,NULL,Key,word2_key,PressedKey, ,1595429890888,4,low,h,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,12,0,trials,NULL,Key,word3_key,PressedKey, ,1595429891179,4,low,h,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,12,0,trials,NULL,Key,word4_key,PressedKey, ,1595429891479,4,low,h,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,12,0,trials,NULL,Key,word5_key,PressedKey, ,1595429891779,4,low,h,Critical,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,12,0,trials,NULL,Scale,scale,Choice,4,1595429893220,4,low,h,Critical,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,12,0,trials,NULL,PennController,13,_Trial_,End,1595429894600,4,low,h,Critical,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,16,0,trials,NULL,PennController,17,_Trial_,Start,1595429894602,5,low,f,Filler,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,16,0,trials,NULL,Key,start,PressedKey, ,1595429895385,5,low,f,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,16,0,trials,NULL,Key,context_key,PressedKey, ,1595429895850,5,low,f,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,16,0,trials,NULL,Key,word1_key,PressedKey, ,1595429896869,5,low,f,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,16,0,trials,NULL,Key,word2_key,PressedKey, ,1595429897137,5,low,f,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,16,0,trials,NULL,Key,word3_key,PressedKey, ,1595429897397,5,low,f,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,16,0,trials,NULL,Key,word4_key,PressedKey, ,1595429897712,5,low,f,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,16,0,trials,NULL,Key,word5_key,PressedKey, ,1595429898004,5,low,f,Filler,Wait success
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,16,0,trials,NULL,Scale,scale,Choice,3,1595429899344,5,low,f,Filler,NULL
+1595429901,9e345ffc6192016442beaca28b023da6,PennController,16,0,trials,NULL,PennController,17,_Trial_,End,1595429900159,5,low,f,Filler,NULL
+#
+# Results on Wednesday August 05 2020 11:52:33 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,0,0,Welcome,NULL,PennController,0,_Trial_,Start,1596628251802,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,0,0,Welcome,NULL,PennController,0,_Trial_,End,1596628256470,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,1,0,ParticipantInfo,NULL,PennController,1,_Trial_,Start,1596628256473,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,1,0,ParticipantInfo,NULL,Canvas,agecanvas,Print,NA,1596628256480,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,1,0,ParticipantInfo,NULL,DropDown,age,Selected,18,1596628257962,1
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,1,0,ParticipantInfo,NULL,DropDown,NativeLang,Selected,Ja,1596628260116,0
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,1,0,ParticipantInfo,NULL,DropDown,sex,Selected,&nbsp;weiblich&nbsp;,1596628261541,0
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,1,0,ParticipantInfo,NULL,DropDown,language,Selected,nein,1596628262908,0
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,1,0,ParticipantInfo,NULL,TextInput,und zwar,Final,,1596628264662,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,1,0,ParticipantInfo,NULL,PennController,1,_Trial_,End,1596628264662,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,2,0,Instructions,NULL,PennController,2,_Trial_,Start,1596628264665,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,2,0,Instructions,NULL,PennController,2,_Trial_,End,1596628266103,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,7,0,Examples,NULL,PennController,9,_Trial_,Start,1596628266106,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,7,0,Examples,NULL,Key,start,PressedKey, ,1596628267687,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,7,0,Examples,NULL,Button,context_button,Click,Click,1596628269084,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,7,0,Examples,NULL,Key,word1_key,PressedKey, ,1596628269565,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,7,0,Examples,NULL,Key,word2_key,PressedKey, ,1596628269994,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,7,0,Examples,NULL,Key,word3_key,PressedKey, ,1596628270435,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,7,0,Examples,NULL,Key,word4_key,PressedKey, ,1596628270787,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,7,0,Examples,NULL,Key,word5_key,PressedKey, ,1596628271177,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,7,0,Examples,NULL,Scale,scale,Choice,3,1596628272003,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,7,0,Examples,NULL,PennController,9,_Trial_,End,1596628272716,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,6,0,Examples,NULL,PennController,8,_Trial_,Start,1596628272719,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,6,0,Examples,NULL,Key,start,PressedKey, ,1596628274139,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,6,0,Examples,NULL,Button,context_button,Click,Click,1596628277546,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,6,0,Examples,NULL,Key,word1_key,PressedKey, ,1596628277932,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,6,0,Examples,NULL,Key,word2_key,PressedKey, ,1596628278405,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,6,0,Examples,NULL,Key,word3_key,PressedKey, ,1596628278741,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,6,0,Examples,NULL,Key,word4_key,PressedKey, ,1596628279073,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,6,0,Examples,NULL,Key,word5_key,PressedKey, ,1596628279457,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,6,0,Examples,NULL,Scale,scale,Choice,3,1596628280966,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,6,0,Examples,NULL,PennController,8,_Trial_,End,1596628282013,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,3,0,Examples,NULL,PennController,5,_Trial_,Start,1596628282015,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,3,0,Examples,NULL,Key,start,PressedKey, ,1596628283173,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,3,0,Examples,NULL,Button,context_button,Click,Click,1596628285110,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,3,0,Examples,NULL,Key,word1_key,PressedKey, ,1596628285627,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,3,0,Examples,NULL,Key,word2_key,PressedKey, ,1596628286100,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,3,0,Examples,NULL,Key,word3_key,PressedKey, ,1596628286644,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,3,0,Examples,NULL,Key,word4_key,PressedKey, ,1596628287156,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,3,0,Examples,NULL,Key,word5_key,PressedKey, ,1596628287671,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,3,0,Examples,NULL,Scale,scale,Choice,3,1596628288672,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,3,0,Examples,NULL,PennController,5,_Trial_,End,1596628289492,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,5,0,Examples,NULL,PennController,7,_Trial_,Start,1596628289495,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,5,0,Examples,NULL,Key,start,PressedKey, ,1596628290367,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,5,0,Examples,NULL,Button,context_button,Click,Click,1596628291416,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,5,0,Examples,NULL,Key,word1_key,PressedKey, ,1596628292329,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,5,0,Examples,NULL,Key,word2_key,PressedKey, ,1596628293103,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,5,0,Examples,NULL,Key,word3_key,PressedKey, ,1596628293901,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,5,0,Examples,NULL,Key,word4_key,PressedKey, ,1596628294758,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,5,0,Examples,NULL,Key,word5_key,PressedKey, ,1596628295253,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,5,0,Examples,NULL,Scale,scale,Choice,3,1596628296224,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,5,0,Examples,NULL,PennController,7,_Trial_,End,1596628297182,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,4,0,Examples,NULL,PennController,6,_Trial_,Start,1596628297186,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,4,0,Examples,NULL,Key,start,PressedKey, ,1596628298120,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,4,0,Examples,NULL,Button,context_button,Click,Click,1596628299124,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,4,0,Examples,NULL,Key,word1_key,PressedKey, ,1596628299682,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,4,0,Examples,NULL,Key,word2_key,PressedKey, ,1596628300140,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,4,0,Examples,NULL,Key,word3_key,PressedKey, ,1596628300501,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,4,0,Examples,NULL,Key,word4_key,PressedKey, ,1596628300736,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,4,0,Examples,NULL,Key,word5_key,PressedKey, ,1596628301050,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,4,0,Examples,NULL,Scale,scale,Choice,3,1596628303747,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,4,0,Examples,NULL,PennController,6,_Trial_,End,1596628304682,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,8,0,beforeTrials,NULL,PennController,3,_Trial_,Start,1596628304685,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,8,0,beforeTrials,NULL,PennController,3,_Trial_,End,1596628313067,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Item.
+# 14. Soc_stat.
+# 15. condition.
+# 16. stimuli.
+# 17. Comments.
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,9,0,trials,NULL,PennController,10,_Trial_,Start,1596628313070,1,high,g,Critical,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,9,0,trials,NULL,Key,start,PressedKey, ,1596628315706,1,high,g,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,9,0,trials,NULL,Button,context_button,Click,Click,1596628316960,1,high,g,Critical,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,9,0,trials,NULL,Key,word1_key,PressedKey, ,1596628317759,1,high,g,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,9,0,trials,NULL,Key,word2_key,PressedKey, ,1596628318428,1,high,g,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,9,0,trials,NULL,Key,word3_key,PressedKey, ,1596628318961,1,high,g,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,9,0,trials,NULL,Key,word4_key,PressedKey, ,1596628319444,1,high,g,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,9,0,trials,NULL,Key,word5_key,PressedKey, ,1596628319847,1,high,g,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,9,0,trials,NULL,Scale,scale,Choice,4,1596628321238,1,high,g,Critical,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,9,0,trials,NULL,PennController,10,_Trial_,End,1596628322177,1,high,g,Critical,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,11,0,trials,NULL,PennController,12,_Trial_,Start,1596628322180,3,low,i,Critical,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,11,0,trials,NULL,Key,start,PressedKey, ,1596628323251,3,low,i,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,11,0,trials,NULL,Button,context_button,Click,Click,1596628324360,3,low,i,Critical,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,11,0,trials,NULL,Key,word1_key,PressedKey, ,1596628324980,3,low,i,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,11,0,trials,NULL,Key,word2_key,PressedKey, ,1596628325315,3,low,i,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,11,0,trials,NULL,Key,word3_key,PressedKey, ,1596628325598,3,low,i,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,11,0,trials,NULL,Key,word4_key,PressedKey, ,1596628325976,3,low,i,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,11,0,trials,NULL,Key,word5_key,PressedKey, ,1596628326266,3,low,i,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,11,0,trials,NULL,Scale,scale,Choice,5,1596628327504,3,low,i,Critical,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,11,0,trials,NULL,PennController,12,_Trial_,End,1596628328266,3,low,i,Critical,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,12,0,trials,NULL,PennController,13,_Trial_,Start,1596628328268,27,high,e,Filler,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,12,0,trials,NULL,Key,start,PressedKey, ,1596628329145,27,high,e,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,12,0,trials,NULL,Button,context_button,Click,Click,1596628330156,27,high,e,Filler,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,12,0,trials,NULL,Key,word1_key,PressedKey, ,1596628330452,27,high,e,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,12,0,trials,NULL,Key,word2_key,PressedKey, ,1596628330926,27,high,e,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,12,0,trials,NULL,Key,word3_key,PressedKey, ,1596628331275,27,high,e,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,12,0,trials,NULL,Key,word4_key,PressedKey, ,1596628331637,27,high,e,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,12,0,trials,NULL,Key,word5_key,PressedKey, ,1596628331949,27,high,e,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,12,0,trials,NULL,Scale,scale,Choice,3,1596628332980,27,high,e,Filler,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,12,0,trials,NULL,PennController,13,_Trial_,End,1596628334083,27,high,e,Filler,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,10,0,trials,NULL,PennController,11,_Trial_,Start,1596628334085,2,low,j,Critical,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,10,0,trials,NULL,Key,start,PressedKey, ,1596628335008,2,low,j,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,10,0,trials,NULL,Button,context_button,Click,Click,1596628336528,2,low,j,Critical,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,10,0,trials,NULL,Key,word1_key,PressedKey, ,1596628337104,2,low,j,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,10,0,trials,NULL,Key,word2_key,PressedKey, ,1596628337445,2,low,j,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,10,0,trials,NULL,Key,word3_key,PressedKey, ,1596628337727,2,low,j,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,10,0,trials,NULL,Key,word4_key,PressedKey, ,1596628338037,2,low,j,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,10,0,trials,NULL,Key,word5_key,PressedKey, ,1596628338404,2,low,j,Critical,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,10,0,trials,NULL,Scale,scale,Choice,3,1596628339407,2,low,j,Critical,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,10,0,trials,NULL,PennController,11,_Trial_,End,1596628340194,2,low,j,Critical,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,14,0,trials,NULL,PennController,15,_Trial_,Start,1596628340197,29,high,c,Filler,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,14,0,trials,NULL,Key,start,PressedKey, ,1596628340989,29,high,c,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,14,0,trials,NULL,Button,context_button,Click,Click,1596628342397,29,high,c,Filler,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,14,0,trials,NULL,Key,word1_key,PressedKey, ,1596628342923,29,high,c,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,14,0,trials,NULL,Key,word2_key,PressedKey, ,1596628343361,29,high,c,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,14,0,trials,NULL,Key,word3_key,PressedKey, ,1596628343854,29,high,c,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,14,0,trials,NULL,Key,word4_key,PressedKey, ,1596628344293,29,high,c,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,14,0,trials,NULL,Key,word5_key,PressedKey, ,1596628344719,29,high,c,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,14,0,trials,NULL,Scale,scale,Choice,3,1596628345917,29,high,c,Filler,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,14,0,trials,NULL,PennController,15,_Trial_,End,1596628346597,29,high,c,Filler,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,13,0,trials,NULL,PennController,14,_Trial_,Start,1596628346600,27,low,d,Filler,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,13,0,trials,NULL,Key,start,PressedKey, ,1596628347483,27,low,d,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,13,0,trials,NULL,Button,context_button,Click,Click,1596628348612,27,low,d,Filler,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,13,0,trials,NULL,Key,word1_key,PressedKey, ,1596628349130,27,low,d,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,13,0,trials,NULL,Key,word2_key,PressedKey, ,1596628349815,27,low,d,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,13,0,trials,NULL,Key,word3_key,PressedKey, ,1596628350389,27,low,d,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,13,0,trials,NULL,Key,word4_key,PressedKey, ,1596628350853,27,low,d,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,13,0,trials,NULL,Key,word5_key,PressedKey, ,1596628351263,27,low,d,Filler,Wait success
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,13,0,trials,NULL,Scale,scale,Choice,4,1596628352530,27,low,d,Filler,NULL
+1596628354,d11f31694862aba5b44e287c2d6174c7,PennController,13,0,trials,NULL,PennController,14,_Trial_,End,1596628353826,27,low,d,Filler,NULL
